@@ -20,7 +20,7 @@ export class Greetings extends React.Component {
   componentDidMount() {
     setTimeout(() => {
       this.setState({ show: true });
-    }, 2000);
+    }, 200);
   }
 
   render() {
