@@ -11,7 +11,7 @@ export const StyledBottom = styled.div`
   font-size: 0.9rem;
   font-weight: 100;
   color: black;
-  padding-bottom: 1%;
+  padding-bottom: 10vh;
 
   @media (min-width: 375px) {
     font-size: 1rem;

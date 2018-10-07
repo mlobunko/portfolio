@@ -8,7 +8,7 @@ exports[`StyledArrow renders correctly 1`] = `
 
 exports[`StyledBottom renders correctly 1`] = `
 <div
-  className="sc-bwzfXH dXSVLE"
+  className="sc-bwzfXH hBpGIZ"
 />
 `;
 
