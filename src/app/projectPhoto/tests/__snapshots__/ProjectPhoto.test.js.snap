@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render renders correctly 1`] = `
+<StyledProjectPhoto
+  image="image"
+  margin={true}
+  textColor="black"
+  textUp={true}
+>
+  <StyledText
+    textUp={true}
+  >
+    <StyledNameOfProject>
+      nameOfProject
+    </StyledNameOfProject>
+    <StyledDescription>
+      description-family
+    </StyledDescription>
+    <LinkToGithub
+      link="https://a.com"
+      nameOfProject="nameOfProject"
+      textColor="black"
+    />
+  </StyledText>
+</StyledProjectPhoto>
+`;

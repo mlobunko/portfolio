@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledArrow renders correctly 1`] = `
+<div
+  className="sc-bdVaJa griMVU"
+/>
+`;
+
+exports[`StyledBottom renders correctly 1`] = `
+<div
+  className="sc-bwzfXH dXSVLE"
+/>
+`;
+
+exports[`StyledBottomText renders correctly 1`] = `
+<div
+  className="sc-htpNat gOUWiF"
+/>
+`;
+
+exports[`StyledGreetings renders correctly 1`] = `
+<div
+  className="sc-bxivhb kQojpz"
+/>
+`;
+
+exports[`StyledHeader renders correctly 1`] = `
+<div
+  className="sc-ifAKCX itfMJV"
+/>
+`;
+
+exports[`StyledHeaderFirstSentence renders correctly 1`] = `
+<h1
+  className="sc-EHOje UZKL"
+/>
+`;
+
+exports[`StyledHeaderSecondSentence renders correctly 1`] = `
+<h2
+  className="sc-bZQynM fASZuk"
+/>
+`;

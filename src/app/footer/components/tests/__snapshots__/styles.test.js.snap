@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledFontAwesomeIcon renders correctly 1`] = `
+<FontAwesomeIcon
+  border={false}
+  className="sc-bdVaJa cuOfxm"
+  fixedWidth={false}
+  flip={null}
+  icon={null}
+  inverse={false}
+  listItem={false}
+  mask={null}
+  pull={null}
+  pulse={false}
+  rotation={null}
+  size={null}
+  spin={false}
+  symbol={false}
+  title=""
+  transform={null}
+/>
+`;
+
+exports[`StyledFooter renders correctly 1`] = `
+<footer
+  className="sc-bwzfXH iTBrGl"
+/>
+`;
+
+exports[`StyledSocial renderes correctly 1`] = `
+<div
+  className="sc-htpNat dSTtIP"
+/>
+`;

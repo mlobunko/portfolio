@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledDescription renders correctly 1`] = `
+<div
+  className="sc-bdVaJa fWVUsH"
+/>
+`;
+
+exports[`StyledNameOfProject renders correctly 1`] = `
+<h2
+  className="sc-bwzfXH lfmvEF"
+/>
+`;
+
+exports[`StyledProjectPhoto renders correctly, when textColor=false, textUp=false 1`] = `
+<section
+  className="sc-htpNat dqjBye"
+/>
+`;
+
+exports[`StyledProjectPhoto renders correctly, when textColor=white, textUp=true 1`] = `
+<section
+  className="sc-htpNat efbeUJ"
+/>
+`;
+
+exports[`StyledText renders correctly 1`] = `
+<div
+  className="sc-bxivhb hLTBkS"
+/>
+`;
+
+exports[`StyledText renders correctly, when textUp true 1`] = `
+<div
+  className="sc-bxivhb cwszbi"
+/>
+`;

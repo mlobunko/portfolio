@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledImage renders correctly 1`] = `
+<div
+  className="sc-bdVaJa ikAvEC"
+/>
+`;
+
+exports[`StyledSkill renders correctly 1`] = `
+<div
+  className="sc-bwzfXH kVwhgl"
+/>
+`;
+
+exports[`StyledSkills renders correctly 1`] = `
+<div
+  className="sc-htpNat eORIHK"
+/>
+`;

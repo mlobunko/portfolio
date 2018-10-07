@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledHeaderOfSections renders correctly 1`] = `
+<h2
+  className="sc-bdVaJa gYOuLa"
+/>
+`;
+
+exports[`StyledMain renders correctly 1`] = `
+<div
+  className="sc-bwzfXH TkSum"
+/>
+`;

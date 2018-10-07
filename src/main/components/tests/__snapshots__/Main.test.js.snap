@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render renders correctly 1`] = `
+<StyledMain>
+  <ErrorBoundary>
+    <Greetings />
+    <StyledHeaderOfSections>
+      My Recent Projects
+    </StyledHeaderOfSections>
+    <ProjectPhoto
+      description="An app uses the Pomodoro Technique which breaks down work into intervals, traditionally 25 minutes in length, separated by short breaks."
+      image="image-pomidoro.jpg"
+      link="https://github.com/mlobunko/pomodoro-timer"
+      margin={true}
+      nameOfProject="Pomodoro Timer"
+      textColor="white"
+      textUp={true}
+    />
+    <ProjectPhoto
+      description="Project based on the list of tasks usually solve by the front-end developer."
+      image="image-without-water.jpg"
+      link="https://github.com/mlobunko/without-water"
+      margin={true}
+      nameOfProject="Without Water"
+      textColor="white"
+      textUp={true}
+    />
+    <ProjectPhoto
+      description="An application for search movie details uses The Movie Database."
+      image="image-movies.jpg"
+      link="https://github.com/mlobunko/movies"
+      margin={true}
+      nameOfProject="Movies"
+      textColor="white"
+    />
+    <ProjectPhoto
+      description="A sound application plays voices of animals and shows their kind."
+      image="image-funny-farm.jpg"
+      link="https://github.com/mlobunko/funny-farm"
+      nameOfProject="Funny Farm"
+      textColor="black"
+      textUp={true}
+    />
+    <StyledHeaderOfSections>
+      My Skills
+    </StyledHeaderOfSections>
+    <Skills />
+    <Component />
+  </ErrorBoundary>
+</StyledMain>
+`;

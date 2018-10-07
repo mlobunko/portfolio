@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render renders correctly 1`] = `
+<Skills>
+  <Skill
+    image="html.png"
+    text="HTML"
+  />
+  <Skill
+    image="css.svg"
+    text="CSS"
+  />
+  <Skill
+    image="sass.png"
+    text="Sass"
+  />
+  <Skill
+    image="responsive.svg"
+    text="Responsive Design"
+  />
+  <Skill
+    image="js.svg"
+    text="Javascript"
+  />
+  <Skill
+    image="react.svg"
+    text="React"
+  />
+  <Skill
+    image="redux.svg"
+    text="Redux"
+  />
+  <Skill
+    image="redux-saga.png"
+    text="Redux-Saga"
+  />
+  <Skill
+    image="styled-components.png"
+    text="Styled Components"
+  />
+  <Skill
+    image="git.png"
+    text="Git"
+  />
+  <Skill
+    image="rest-api.png"
+    text="REST API"
+  />
+  <Skill
+    image="test.png"
+    text="Unit testing"
+  />
+</Skills>
+`;

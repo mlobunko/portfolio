@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render renders correctly 1`] = `
+<StyledGreetings
+  image="image-greetings.jpg"
+>
+  <StyledHeader>
+    <StyledHeaderFirstSentence>
+      <ReactRevealText
+        className=""
+        delayMax={1000}
+        delayMin={0}
+        show={false}
+        style={Object {}}
+        text=""
+        threshold={0.2}
+        timingFunction="linear"
+        transitionTime={2000}
+      >
+        Hi! I'm Mika.
+      </ReactRevealText>
+    </StyledHeaderFirstSentence>
+    <StyledHeaderSecondSentence>
+      <ReactRevealText
+        className=""
+        delayMax={2000}
+        delayMin={1000}
+        show={false}
+        style={Object {}}
+        text=""
+        threshold={0.2}
+        timingFunction="linear"
+        transitionTime={2000}
+      >
+        I build web applications.
+      </ReactRevealText>
+    </StyledHeaderSecondSentence>
+  </StyledHeader>
+  <StyledBottom>
+    <StyledBottomText>
+      <ReactRevealText
+        className=""
+        delayMax={3000}
+        delayMin={2000}
+        show={false}
+        style={Object {}}
+        text=""
+        threshold={0.2}
+        timingFunction="linear"
+        transitionTime={2000}
+      >
+        Learn more about what I do
+      </ReactRevealText>
+    </StyledBottomText>
+    <StyledArrow>
+      <ReactRevealText
+        className=""
+        delayMax={3000}
+        delayMin={2000}
+        show={false}
+        style={Object {}}
+        text=""
+        threshold={0.2}
+        timingFunction="linear"
+        transitionTime={2000}
+      >
+        ˅
+      </ReactRevealText>
+    </StyledArrow>
+  </StyledBottom>
+</StyledGreetings>
+`;

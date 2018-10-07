@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Skill renders correctly 1`] = `
+<StyledSkill>
+  <StyledImage
+    image="image"
+  />
+  <div>
+    text
+  </div>
+</StyledSkill>
+`;
