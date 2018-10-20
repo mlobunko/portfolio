@@ -30,7 +30,7 @@ Change the current working directory to the location where you want the cloned d
 
 Clone repository:
 
-`git clone https://github.com/mlobunko/movies.git`
+`git clone https://github.com/mlobunko/portfolio.git`
 
 Install:
 
